@@ -6,12 +6,12 @@ import com.zensar.firstspringbootapp.entity.Product;
 
 public interface ProductService {
 	
-	public List<Product> getAllProducts() ;
+	public Iterable<Product> getAllProducts() ;
 
 
 	public Product getProduct(int productId);
 	
-	public void insertProduct( Product product) ;
+	public Product insertProduct( Product product) ;
 
 	
 	public void deleteProduct(int productId) ;
