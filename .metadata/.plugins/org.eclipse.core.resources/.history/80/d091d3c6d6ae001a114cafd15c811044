@@ -1,0 +1,12 @@
+package com.zensar.firstspringbootapp.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ProductController {
+	
+	// http://localhost:8080/products/
+	
+	
+
+}

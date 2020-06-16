@@ -1,0 +1,18 @@
+package com.zensar.firstspringbootapp.controllers;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ProductController {
+	
+	// http://localhost:8080/products/
+	
+	public List<Product> getAllProducts(){
+		return null;
+	}
+	
+	
+
+}

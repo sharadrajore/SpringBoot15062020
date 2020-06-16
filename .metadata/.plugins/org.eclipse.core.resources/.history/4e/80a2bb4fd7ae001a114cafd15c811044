@@ -1,0 +1,5 @@
+package com.zensar.firstspringbootapp.entity;
+
+public class Product {
+
+}
