@@ -1,0 +1,11 @@
+package com.zensar.firstspringbootapp.repository;
+
+import java.util.List;
+
+import com.zensar.firstspringbootapp.entity.Product;
+
+public class ProductRepositoryImpl implements ProductRepository {
+
+	
+
+}

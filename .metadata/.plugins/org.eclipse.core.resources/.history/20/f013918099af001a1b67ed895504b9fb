@@ -1,0 +1,5 @@
+package com.zensar.firstspringbootapp.service;
+
+public class ProductServiceImpl implements ProductService {
+
+}

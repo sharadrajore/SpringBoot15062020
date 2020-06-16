@@ -1,0 +1,5 @@
+package com.zensar.firstspringbootapp.repository;
+
+public class ProductRepository {
+
+}
