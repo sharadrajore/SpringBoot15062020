@@ -6,3 +6,8 @@
 1592283743472	Move compilation unit
 1592283748678	Delete element
 1592290534931	Delete element
+1592456692273	Delete element
+1592458312481	Delete element
+1592458334753	Rename resource 'application.properties'
+1592459795933	Rename resource 'myapplication.properties'
+1592460280212	Rename resource 'imports.sql'

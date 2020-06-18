@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Users\sr43993\Documents\spring-boot-15062020\web-demo"/>
 			<item value="D:\Users\sr43993\Documents\spring-boot-15062020\first-spring-boot-app\pom.xml"/>
 			<item value="D:\Users\sr43993\Documents\spring-boot-15062020\first-spring-boot-app"/>
 		</list>
